@@ -1,0 +1,10 @@
+An integer P is a whole square if it is a square of some integer Q; i.e. if P = Q2.
+
+Write a function that, given two integers A and B, returns the number of whole squares within the interval [A..B] (both ends included).
+
+For example, given A = 4 and B = 17, the function should return 3, because there are Three squares of integers in the interval [4..17], namely 4 = 2", 9 = 3" and 16 = 4" .
+
+Assume that:
+
+a. A and B are integers within the range [-10,000..10,000]; b. A <= B.
+
